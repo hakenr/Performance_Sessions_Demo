@@ -1,7 +1,7 @@
 echo off
 cls
 echo Performance counters
-echo  ASP.NET Applications \ Requests Succeeded
+echo  ASP.NET Applications \ Sessions Active
 echo  ASP.NET Applications \ Requests/s
 pause
 echo on
